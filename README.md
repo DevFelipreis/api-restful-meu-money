@@ -43,7 +43,7 @@ Sistema de gerenciamento de banco de dados relacional (RDBMS, sigla em inglês p
 Abra o terminal ou prompt de comando, navegue até o diretório do seu projeto e execute o seguinte comando: ```npm install bcrypt```
 
 **express PG:** uma combinação do Node.js com o framework web Express.js e o banco de dados PostgreSQL (PG). Quando essas três tecnologias são usadas juntas, é comum referir-se a elas como "Express PG" para indicar que se está construindo uma aplicação web com Express.js que se conecta a um banco de dados PostgreSQL. 
-Abra o terminal ou prompt de comando, navegue até o diretório do seu projeto e execute o seguinte comando: ```npm install pg```
+Abra o terminal ou prompt de comando, navegue até o diretório do seu projeto e execute o seguinte comando: ```npm install express pg```
 
 **jsonwebtoken:** padrão aberto (RFC 7519) que define uma maneira compacta e independente de transmitir informações entre duas partes de uma forma que pode ser verificada e confiável. Os JWTs são usados para transmitir informações entre um cliente e um servidor de forma segura e autenticada. Eles são frequentemente usados em sistemas de autenticação e autorização. 
 Abra o terminal ou prompt de comando, navegue até o diretório do seu projeto e execute o seguinte comando: ```npm install jsonwebtoken```
